@@ -1,0 +1,18 @@
+.nav-link {
+    padding: 0;
+}
+
+.navbar {
+    padding: 0;
+}
+.navbar-brand {
+    height: 100%;
+}
+
+.jumbotron {
+    padding: 32px;
+}
+
+.card {
+    padding-top: 15px;
+}
